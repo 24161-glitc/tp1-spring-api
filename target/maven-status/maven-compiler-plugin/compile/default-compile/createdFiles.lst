@@ -1,0 +1,7 @@
+com\example\tp1_spring_api\entities\Student.class
+com\example\tp1_spring_api\repositories\StudentRepository.class
+com\example\tp1_spring_api\Tp1SpringApiApplication.class
+com\example\tp1_spring_api\exceptions\GlobalExceptionHandler.class
+com\example\tp1_spring_api\repositories\CourseRepository.class
+com\example\tp1_spring_api\controllers\StudentController.class
+com\example\tp1_spring_api\entities\Course.class

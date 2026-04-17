@@ -1,0 +1,7 @@
+C:\Users\HP\Downloads\tp1-spring-api\src\main\java\com\example\tp1_spring_api\Tp1SpringApiApplication.java
+C:\Users\HP\Downloads\tp1-spring-api\src\main\java\com\example\tp1_spring_api\controllers\StudentController.java
+C:\Users\HP\Downloads\tp1-spring-api\src\main\java\com\example\tp1_spring_api\repositories\CourseRepository.java
+C:\Users\HP\Downloads\tp1-spring-api\src\main\java\com\example\tp1_spring_api\entities\Course.java
+C:\Users\HP\Downloads\tp1-spring-api\src\main\java\com\example\tp1_spring_api\exceptions\GlobalExceptionHandler.java
+C:\Users\HP\Downloads\tp1-spring-api\src\main\java\com\example\tp1_spring_api\entities\Student.java
+C:\Users\HP\Downloads\tp1-spring-api\src\main\java\com\example\tp1_spring_api\repositories\StudentRepository.java
